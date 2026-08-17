@@ -9,7 +9,7 @@ This application serves as a gallery and control center for generated plot outpu
 ## Modes
 
 - **Regular Outputs**: Browse production runs generated through the CLI runner.
-- **Test Outputs**: Browse development runs and use the UI to experiment with JSON parameters. Can also edit the parameters and launch a run.
+- **Test Outputs**: Browse development runs and use the UI to experiment with JSON parameters. Can also edit the parameters and launch a run; this allows for quick tweaking and exploration of a project.
 
 ## Usage
 
